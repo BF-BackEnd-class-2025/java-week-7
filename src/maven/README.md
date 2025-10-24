@@ -215,11 +215,11 @@ Example:
 
 By the end of this week, you should confidently be able to:
 
-✅ Create and run Maven projects in IntelliJ
-✅ Add dependencies and use them in your Java code
-✅ Organize code into `model`, `dao`, `service`, and `util` layers
-✅ Use JSON, CSV, and SQL data sources
-✅ Build real-world Java apps using professional project structure
+- Create and run Maven projects in IntelliJ
+- Add dependencies and use them in your Java code
+- Organize code into `model`, `dao`, `service`, and `util` layers
+- Use JSON, CSV, and SQL data sources
+- Build real-world Java apps using professional project structure
 
 ---
 
