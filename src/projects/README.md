@@ -1,4 +1,4 @@
-# 🧱 **Week 7 — Maven & Project Structure**
+# 🧱 **Projects**
 
 **Focus:** Modular Design, Dependency Management, Real-World Code Organization
 

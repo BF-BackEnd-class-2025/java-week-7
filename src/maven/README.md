@@ -1,4 +1,4 @@
-# 🧱 Week 7 — Maven & Project Structure
+# 🧱 Maven & Project Structure
 
 ## 🧩 What is Maven?
 
