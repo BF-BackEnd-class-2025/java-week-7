@@ -125,7 +125,6 @@
     * `deleteEmployee()`
     * `getAllEmployees()`
 3. Use `DBUtils` for cleaner resource handling.
-4. Use transactions for salary updates.
 
 📦 **Packages:**
 
