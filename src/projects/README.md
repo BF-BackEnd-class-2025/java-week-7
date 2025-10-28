@@ -105,8 +105,13 @@
 </dependency>
 <dependency>
   <groupId>org.apache.commons</groupId>
-  <artifactId>commons-dbutils</artifactId>
-  <version>1.8.1</version>
+  <artifactId>commons-dbcp2</artifactId>
+  <version>2.11.0</version>
+</dependency>
+<dependency>
+  <groupId>org.slf4j</groupId>
+  <artifactId>slf4j-simple</artifactId>
+  <version>2.0.12</version>
 </dependency>
 ```
 
